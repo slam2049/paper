@@ -1,9 +1,6 @@
 # Title
-<<<<<<< HEAD
+
 Aircraft measurements and simulations of biomass burning aerosols over W.Africa
-=======
-Aircraft measurements and simulations of biomass burning aerosols over W.Africa
->>>>>>> simulations
 
 # Author
 Simon Lam & John Smith
