@@ -13,5 +13,8 @@ A large uncertainty in modelling BBOA is the extent to which measurements in the
 # Simulations
 We simulate the evolution of particle sizes as they are transported away from the source region.
 
+# Results
+Simulations indicate that coagulation is the dominant growth mechanism for these particles.
+
 #References
 My grandma
