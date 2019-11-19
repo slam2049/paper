@@ -1,5 +1,5 @@
 # Title
-Ageing of biomass burning aerosols over W.Africa
+Aircraft measurements of biomass burning aerosols over W.Africa
 
 # Author
 Simon Lam
